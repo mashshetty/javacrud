@@ -1,0 +1,11 @@
+input{
+	border-radius: 10px;
+	border:2px solid cyan;
+}
+
+p{
+	background : "red";
+	color: "white";
+	padding : 20px;
+	
+}

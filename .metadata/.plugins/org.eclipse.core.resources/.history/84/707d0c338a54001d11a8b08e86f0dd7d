@@ -1,0 +1,4 @@
+input{
+	border-radious: 10px;
+	border:2px solid cyan;
+}
